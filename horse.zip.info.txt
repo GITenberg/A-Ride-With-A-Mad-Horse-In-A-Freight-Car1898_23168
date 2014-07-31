@@ -1,0 +1,7 @@
+
+TITLE=A Ride With A Mad Horse In A Freight-Car
+SUBTITLE=1898
+AUTHOR=W. H. H. Murray
+LANGUAGE=English
+CREDIT=David Widger
+NOTIFY=
